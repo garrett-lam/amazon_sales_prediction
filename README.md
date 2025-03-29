@@ -1,4 +1,4 @@
-# Amazon Sales Prediction
+# Amazon Sales Rating Prediction
 
 Utilizing PySpark to explore real-world Amazon sales and review data and predict user ratings, this project integrates AWS services (S3 and EC2) to execute a range of analytical tasks and generate aggregated outputs.
 
